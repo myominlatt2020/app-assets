@@ -1,8 +1,8 @@
     [
         {
             "sc": "USA",
-			"sf": "us.svg",
-			"so": "us.ovpn",
+			"sf": "https://raw.githubusercontent.com/myominlatt2020/app-assets/refs/heads/main/images/us.svg",
+			"so": "https://raw.githubusercontent.com/myominlatt2020/app-assets/refs/heads/main/ovpn/us.ovpn",
 			"son": "",
             "sop": ""
         }
