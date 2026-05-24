@@ -1,0 +1,12 @@
+[
+        {
+            "sc": "Optimal Server (Auto)",
+			"sf": "https://raw.githubusercontent.com/myominlatt2020/app-assets/main/images/us.svg",
+			"so": "https://raw.githubusercontent.com/myominlatt2020/app-assets/main//ovpn/us.ovpn",
+			"son": "",
+            "sop": "",
+			"sip": "170.205.37.129",
+            "spo": "443"
+        }
+
+    ]
